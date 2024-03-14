@@ -5,7 +5,7 @@ Perkenalkan nama saya **Ziko Listiyanto**.<br>
 Saya seorang **Mahasiswa** di [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/).<br>
  
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagramku](https://www.instagram.com/zeeqo_0/) ya.
- 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/zeeqolease5">
